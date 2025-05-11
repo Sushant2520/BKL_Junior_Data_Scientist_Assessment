@@ -58,6 +58,6 @@ npm start
 
 ---
 
-**Author:** Your Name  
+**Author:** Sushant Tripathi  
 **Position:** Junior Data Scientist Applicant  
-**Email:** your.email@example.com
+**Email:** sushant.tripathi2000.st@gmail.com
