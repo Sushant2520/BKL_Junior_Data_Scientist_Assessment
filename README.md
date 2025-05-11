@@ -2,11 +2,11 @@
 
 ## 🔧 Objectives
 
-- Design a relational database to store patient records.
+- Designed a relational database to store patient records.
 - Build a web-based form to collect new patient data.
-- Link form inputs with existing Excel data in the SQL database.
+- Linked form inputs with existing Excel data in the SQL database.
 - Develop backend APIs to expose and access key insights.
-- Use SQL joins to analyze and generate meaningful trends.
+- Used SQL joins to analyze and generate meaningful trends.
 
 
 ## 🛠️ Tech Stack
