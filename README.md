@@ -1,4 +1,4 @@
-# 🧠 Junior Data Scientist Assessment - B.K.L Hospital
+# 🧠 Junior Data Scientist Assessmen
 
 This repository contains the complete solution for the practical assessment assigned for the Junior Data Scientist position.
 
