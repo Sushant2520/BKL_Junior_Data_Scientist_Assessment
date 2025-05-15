@@ -1,4 +1,4 @@
-# 🧠 Junior Data Scientist Assessmen
+# 🧠 Junior Data Scientist Assessment
 
 This repository contains the complete solution for the practical assessment assigned for the Junior Data Scientist position.
 
